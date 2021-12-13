@@ -515,7 +515,65 @@ body {
     
 }
 /*  end of rooms  */
-/*   */
-/*  end of about-us  */
+
+/*  costumers */
+
+.costumers {
+    margin-left: 8rem;
+    padding-bottom: 7rem;
+    background-color: #15141b;
+}
+
+.costumers-paragraph {
+    font-size: 1.8rem;
+    color: #ddd;
+    width: 50%;
+    margin: 2rem auto 8rem auto;
+    text-align: center;
+}
+
+.costumers-card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.costumer-card {
+    background-color: #eee;
+    width: 60rem;
+    display: flex;
+}
+
+.costumer-image-wrapper {
+    margin: auto 0;
+}
+.costumer-img {
+    width: 20rem;
+    margin-left: -1.3rem;
+}
+
+.costumer-info {
+    padding: 0 2rem;
+}
+
+.costumer-fullname {
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.costumer-paragraph-1 {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #b85d1c;
+}
+
+.costumer-paragraph-2 {
+    font-size: 1.3rem;
+    font-style: italic;
+}
+/*  end of costumers */
+
+
+
 /*    */
 /*  end of about-us  */
